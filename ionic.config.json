@@ -1,0 +1,7 @@
+{
+  "name": "emoiss",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
