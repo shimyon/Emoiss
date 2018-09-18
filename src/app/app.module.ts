@@ -12,7 +12,7 @@ import { HomePage } from '../pages/home/home';
 import { AboutPage } from '../pages/about/about';
 import { LevelPage } from '../pages/level/level';
 import { LoginPage } from '../pages/login/login';
-import { AuthService } from '@services/providers/auth-service/auth-service';
+import { AuthService } from '../services/providers/auth-service/auth-service';
 
 @NgModule({
   declarations: [

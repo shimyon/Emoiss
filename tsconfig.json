@@ -2,8 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./src",
     "paths": {
-      "@env": [ "env/env"],
-      "@services/*": ["services/*"]
+      "@env": [ "env/env"]
     },
     "allowSyntheticDefaultImports": true,
     "declaration": false,

@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams, Loading, AlertController, LoadingController } from 'ionic-angular';
-import { AuthService } from '@services/providers/auth-service/auth-service';
+import { AuthService } from '../../services/providers/auth-service/auth-service';
 import { HomePage } from '../home/home';
 
 @IonicPage()
